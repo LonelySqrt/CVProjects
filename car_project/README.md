@@ -26,4 +26,3 @@
 <div align="center">
   <p> Generally you could see the cost is descenting slowly, and there is a lot <strong>oscillation</strong> because of mini-batch. </p>
 </div>
-
