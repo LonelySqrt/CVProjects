@@ -1,6 +1,6 @@
 # Computer Vision Projects
 
-### [NO.1  Car Project](https://github.com/LonelySqrt/ComputerVisionProjects/blob/master/car_project/README.md) : This project is my first deep learning project about car detection.<br>
+### [NO.1  Car Project](https://github.com/LonelySqrt/ComputerVisionProjects/blob/master/car_project) : This project is my first deep learning project about car detection.<br>
 
 <div align="center">
   <img src="images/supercar.jpg" /><br>
