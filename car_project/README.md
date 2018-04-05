@@ -5,13 +5,18 @@
 * data : the **positive** and **negative** images are both **6000**. The shape of image is **(32,32,3)**. <br>
 
 <div align="center">
-  <img src="images/CIFAR_cars.png" height="400" width="500" /><br><br>            
+  <img src="images/version1/CIFAR_cars.png" height="400" width="500" /><br><br>            
 </div>
 
 * model : input --> (conv->avg_pool->relu) **x 4** --> (nn->relu) **x 3** --> (nn->sigmoid) --> output.
 
 <div align="center">
-  <img src="images/model.png" height="320" width="560" /><br>             
+  <img src="images/version1/model.png" height="320" width="560" /><br>             
 </div>
 
 * costs
+
+<div>
+  <img src="images/version1/3.png" height="240" width="360"/>
+  <img src="images/version1/4.png" height="240" width="360"/>
+</div>
