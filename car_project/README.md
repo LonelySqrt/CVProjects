@@ -2,7 +2,7 @@
 
 ### `car_detection_v1.ipynb` : the simplest plain CNN model on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) datasets.<br><br>
 
-* data : the **positive** and **negative** images are both **6000**. The shape of image is **(32,32,3)**. Batch size is **64**. <br>
+* data : the **positive** and **negative** images are **both 6000**. The shape of image is **(32,32,3)**. Batch size is **64**. <br>
 <div align="center">
   <img src="images/version1/CIFAR_cars.png" height="400" width="500" /><br>            
 </div>
@@ -16,7 +16,9 @@
 
 ----
 
-* costs : the **third**(left) epcho and **fourth**(right) epoch
+* cost : the **third** epoch and **fourth** epoch. **NOTE THAT: I haven't added any normalization yet.**<br>
+Generally you could see the cost is descenting slowly, and there is a lot oscillation because of mini-batch.
+
 <div align="center">
   <img src="images/version1/3.png" height="240" width="360"/>
   <img src="images/version1/4.png" height="240" width="360"/>
