@@ -4,6 +4,6 @@
 
 * data : the **positive** and **negative** images are both **6000**.
 
-<div align='center>
-  <img src="/CIFAR_cars.png"><br>      
+<div align="center">
+  <img src="images/CIFAR_cars.png" height="400" width="500"><br>             
 </div>
