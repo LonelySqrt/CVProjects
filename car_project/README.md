@@ -18,9 +18,9 @@
 
 * cost : the **third** epoch and **fourth** epoch. **NOTE THAT: I haven't added any normalization yet.**<br><br>
 
-Generally you could see the cost is descenting slowly, and there is a lot **oscillation** because of **mini-batch**.
-
 <div align="center">
   <img src="images/version1/3.png" height="240" width="360"/>
   <img src="images/version1/4.png" height="240" width="360"/>
 </div>
+<br>
+Generally you could see the cost is descenting slowly, and there is a lot **oscillation** because of **mini-batch**.
