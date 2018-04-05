@@ -1,1 +1,1 @@
-# Iamges
+# Images
