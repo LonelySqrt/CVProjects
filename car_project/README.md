@@ -16,7 +16,7 @@
 
 ----
 
-* cost : the **third** epoch and **fourth** epoch. **NOTE THAT: I haven't added any normalization yet.**<br><br>
+* cost : the **third** epoch and **fourth** epoch. **NOTE THAT: I haven't added any normalization yet.**<br>
 
 <div align="center">
   <img src="images/version1/3.png" height="240" width="360"/>
