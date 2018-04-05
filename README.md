@@ -1,5 +1,4 @@
 # Computer Vision Projects
-The deep research about CNN.
-<p>
-  First Project: Car Detector.
-</p>
+## 2018-04-05 <br>
+Add car_project
+
