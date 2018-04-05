@@ -11,7 +11,7 @@
 * model : input --> (conv->avg_pool->relu) x 4 --> (nn->relu) x 3 --> (nn->sigmoid) --> output.
 
 <div align="center">
-  <img src="images/model.png" height="400" width="700"><br>             
+  <img src="images/model.png" height="320" width="560"><br>             
 </div>
 
 * costs
