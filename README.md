@@ -1,7 +1,7 @@
 # Computer Vision Projects
 
 <div align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_transp.png"><br><br>
+  <img src="images/supercar.jpg"><br><br>
 </div>
 
 ### 2018-04-05 <br>
