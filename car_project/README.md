@@ -19,8 +19,7 @@
 * cost : the **third** epoch and **fourth** epoch. **NOTE THAT: I haven't added any normalization yet.**<br>
 
 <div align="center">
-  <img src="images/version1/3.png" height="240" width="360"/>
-  <img src="images/version1/4.png" height="240" width="360"/>
+  <img src="images/version1/epoch1-cost.png" height="200" width="290"/>
 </div>
 
 <div align="center">
