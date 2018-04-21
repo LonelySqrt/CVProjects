@@ -1,5 +1,6 @@
 # Car Detection
 
+### UPDATE - 2018-04-21
 ### `car_detection_v1.ipynb` : the simplest plain CNN model on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) datasets.<br><br>
 
 * data : the **positive** and **negative** images are **both 6000**. The shape of image is **(32,32,3)**. Batch size is **64**. <br>
