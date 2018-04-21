@@ -16,7 +16,7 @@
 
 * model :
 <div align="center">
-  <img src="images/version1/model.png" height="180" width="800" /><br>             
+  <img src="images/version1/model.png" height="190" width="800" /><br>             
 </div>
 
 ----
