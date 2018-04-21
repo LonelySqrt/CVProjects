@@ -9,17 +9,22 @@
 
 ----
 
-* model : input --> (conv->avg_pool->relu) **x 4** --> (nn->relu) **x 3** --> (nn->sigmoid) --> output.
+* conv-block : 
 <div align="center">
-  <img src="images/version1/model.png" height="320" width="560" /><br>             
+  <img src="images/version1/conv-block.png" height="240" width="740" /><br>             
+</div>
+
+* model :
+<div align="center">
+  <img src="images/version1/model.png" height="180" width="800" /><br>             
 </div>
 
 ----
 
-* cost : the **third** epoch and **fourth** epoch. **NOTE THAT: I haven't added any normalization yet.**<br>
+* cost : the **first** epoch. **NOTE THAT: I haven't added any normalization yet.**<br>
 
 <div align="center">
-  <img src="images/version1/epoch1-cost.png" height="200" width="290"/>
+  <img src="images/version1/epoch1-cost.png" height="250" width="370"/>
 </div>
 
 <div align="center">
