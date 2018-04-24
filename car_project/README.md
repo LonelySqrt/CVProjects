@@ -2,6 +2,8 @@
 
 ### UPDATE - 2018-04-25
 ### `car_detection_v2.ipynb` : the advanced CNN model with BN and Adam optimizer.
+* Training about **170s**, got **92.34%** accuracy!
+This is the losses on 2000 times batch.
 <div align="center">
   <img src="images/version2/loss.png" height="400" width="800" /><br>            
 </div>
