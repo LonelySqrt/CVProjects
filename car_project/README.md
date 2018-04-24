@@ -1,5 +1,25 @@
 # Car Detection
 
+### UPDATE - 2018-04-25
+### `car_detection_v2.ipynb` : the advanced CNN model with BN and Adam optimizer.
+<div align="center">
+  <img src="images/version2/loss.png" height="400" width="800" /><br>            
+</div>
+
+---
+
+* conv-block : 
+<div align="center">
+  <img src="images/version2/conv-block.png" height="255" width="1000" /><br>             
+</div>
+
+* model :
+<div align="center">
+  <img src="images/version2/model.png" height="250" width="1000" /><br>             
+</div>
+
+---
+
 ### UPDATE - 2018-04-21
 ### `car_detection_v1.ipynb` : the simplest plain CNN model on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) datasets.<br><br>
 
