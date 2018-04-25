@@ -15,7 +15,7 @@
 </div>
 
 ### 2018-04-21 <br>
-* update **car_detection_v1.** 10 epoches get **86.0%** accuracy. (1000 mini-batch)**
+* update **car_detection_v1.** 10 epoches get **86.0%** accuracy. (1000 mini-batch)
 <div align="center">
   <img src="images/10-epoches-cost.png" height="300" width="440"  /><br>
 </div>
